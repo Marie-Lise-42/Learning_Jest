@@ -18,6 +18,4 @@ app.get("/", (req, res) => {
     res.json("Hello the world!");
 });
 
-
-
 module.exports = app;
